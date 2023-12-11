@@ -99,5 +99,5 @@ Enter country code:
 
 Good question. This part is hidden in the file `countries_api.rb`, since that technique will be covered in another lesson.
 
-However, the data comes from an online service (API) called [REST Countries](https://restcountries.eu/).
+However, the data comes from an online service (API) called [REST Countries](https://restcountries.com/).
 This API enables us to request information about any country of the world.
